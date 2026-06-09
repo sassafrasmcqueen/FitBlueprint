@@ -1,0 +1,16 @@
+{
+  "name": "Complete Fitness Starter Kit",
+  "description": "The ultimate package to kickstart your health journey. Includes all 5 core FitBlueprint products plus all bonus trackers and guides. Everything you need to workout, eat better, and build lasting habits in one discounted bundle.",
+  "products_included": [
+    "4-Week Beginner Bodyweight Workout Plan",
+    "7-Day Meal Prep Guide & Grocery List",
+    "Habit Tracker Printable",
+    "Fitness Journey Journal",
+    "12-Week Home Gym Program",
+    "Daily Hydration Tracker (Bonus)",
+    "Weekly Grocery Shopping Template (Bonus)",
+    "Top 10 High-Protein Snacks (Bonus)"
+  ],
+  "price": "$47",
+  "total_value": "$88 + bonuses"
+}
